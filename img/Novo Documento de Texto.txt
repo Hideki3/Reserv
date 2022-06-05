@@ -1,0 +1,6 @@
+NOme
+telefone
+dia de retirada 
+Hora de saida
+dia de entrega
+hora de entrega
